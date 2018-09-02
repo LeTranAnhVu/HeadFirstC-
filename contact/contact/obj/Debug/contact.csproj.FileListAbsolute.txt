@@ -1,0 +1,8 @@
+c:\users\fuckyoubitch\documents\visual studio 2015\Projects\contact\contact\bin\Debug\contact.exe.config
+c:\users\fuckyoubitch\documents\visual studio 2015\Projects\contact\contact\bin\Debug\contact.exe
+c:\users\fuckyoubitch\documents\visual studio 2015\Projects\contact\contact\bin\Debug\contact.pdb
+c:\users\fuckyoubitch\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.csprojResolveAssemblyReference.cache
+c:\users\fuckyoubitch\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.Properties.Resources.resources
+c:\users\fuckyoubitch\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.csproj.GenerateResource.Cache
+c:\users\fuckyoubitch\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.exe
+c:\users\fuckyoubitch\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.pdb
