@@ -6,3 +6,10 @@ c:\users\fuckyoubitch\documents\visual studio 2015\Projects\contact\contact\obj\
 c:\users\fuckyoubitch\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.csproj.GenerateResource.Cache
 c:\users\fuckyoubitch\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.exe
 c:\users\fuckyoubitch\documents\visual studio 2015\Projects\contact\contact\obj\Debug\contact.pdb
+C:\Users\fuckyoubitch\Documents\Visual Studio 2015\Projects\contact\contact\obj\Debug\contact.Form1.resources
+C:\Users\fuckyoubitch\Documents\Visual Studio 2015\Projects\contact\contact\bin\Debug\Contact.mdf
+C:\Users\fuckyoubitch\Documents\Visual Studio 2015\Projects\contact\contact\bin\Debug\Contact_log.ldf
+C:\Users\fuckyoubitch\Documents\Visual Studio 2015\Projects\contact\contact\bin\Debug\contact.exe.manifest
+C:\Users\fuckyoubitch\Documents\Visual Studio 2015\Projects\contact\contact\bin\Debug\contact.application
+C:\Users\fuckyoubitch\Documents\Visual Studio 2015\Projects\contact\contact\obj\Debug\contact.exe.manifest
+C:\Users\fuckyoubitch\Documents\Visual Studio 2015\Projects\contact\contact\obj\Debug\contact.application
